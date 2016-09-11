@@ -7,6 +7,8 @@ Open API test
 $ soos
 ```
 
+## Test
+
 ```bash
-$ soos -c npm run test
+$ soos -c npm run test:watch
 ```
